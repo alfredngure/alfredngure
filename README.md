@@ -1,4 +1,4 @@
-# Hi, I'm [alfredngure]
+# Hi, I'm alfredngure
 
 ## About Me
 - I'm currently learning computer programming at IYF academy 
@@ -10,7 +10,7 @@
 - java script
   
 ## Current Projects
-- [Project name](link) — short description
+- creating a profile and a repository 
 
 ## How to Reach Me
 - Email: ngurealfred3@gmail.com
