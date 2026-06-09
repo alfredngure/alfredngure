@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [alfredngure]
 
-<!--
-**alfredngure/alfredngure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning computer programming at IYF academy 
+- I'm interested in  web development,data analytics 
+- I'm looking to collaborate on open sources projects which are beginner friendly 
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- java script
+  
+## Current Projects
+- [Project name](link) — short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email: ngurealfred3@gmail.com
+- LinkedIn: ngurealfred3@gmail.com
