@@ -8,6 +8,8 @@
 ## Skills I'm Building
 - Git and GitHub
 - java script
+- python
+- java
   
 ## Current Projects
 - creating a profile and a repository 
